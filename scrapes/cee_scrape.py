@@ -13,7 +13,7 @@ with open(in_file, 'r') as html_doc:
 faculty = soup.findAll("div", { "class" : "views-row"})
 
 with open(out_file, 'w') as out:
-	writer = csv.writer(out_file, delimiter="\t")
+	writer = csv.writer(out, delimiter="\t")
 	for f in faculty:
 		row = []
 		name = f.find("div", {"class": "views-field-title"}).span.text.strip().split(" ")
@@ -26,7 +26,7 @@ with open(out_file, 'w') as out:
 		if(len(name) == 2):
 			## only first and last
 			row.append(no_mi)
-		row.extend([name[1:])
+		row.extend(name[1:])
 		row.extend([title, DEPT])
 		print row
 		writer.writerow(row)
