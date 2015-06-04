@@ -1,5 +1,8 @@
 # duke_dir
-Duke Professors info --> tsv
+Compiling all Duke Faculty into a standardized format.
+
+[Trinity Department Links](https://trinity.duke.edu/departments)
+[Pratt Department Links](http://www.pratt.duke.edu/directory)
 
 ###TSV File Format
 One entry per professor per department. That is, if a professor teaches in more than one department, 
