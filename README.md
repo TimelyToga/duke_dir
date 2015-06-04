@@ -11,13 +11,15 @@ This format is followed in `master.csv` and all respective department files in `
 
 ###Special Notes
 
-`/depts/biology.tsv` contains professors and graduate students. All are labeled properly. 
+* `biology.tsv` contains professors and graduate students. All are labeled properly. 
+* `economics.tsv` "
+* `english.tsv` " 
 
 ###Progress
 
 As of 03/06/2015: 
 
-######COMPLETE: (12/39)
+######COMPLETE: (20/39)
 
 * African and African American Studies
 * Air Force ROTC
@@ -25,6 +27,14 @@ As of 03/06/2015:
 * Art, Art History and Visual Studies
 * Asian and Middle Eastern Studies
 * Biology
+* Chemistry
+* Classical Studies
+* Computer Science
+* Cultural Anthropology
+* Dance
+* Documentary Studies
+* Economics
+* English
 * Mathematics
 * BME
 * ECE
