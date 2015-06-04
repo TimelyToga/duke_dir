@@ -14,12 +14,14 @@ This format is followed in `master.csv` and all respective department files in `
 * `biology.tsv` contains professors and graduate students. All are labeled properly. 
 * `economics.tsv` "
 * `english.tsv` " 
+* `evanth.tsv` "
+* 'german.tsv' "
 
 ###Progress
 
 As of 03/06/2015: 
 
-######COMPLETE: (20/39)
+######COMPLETE: (27/39)
 
 * African and African American Studies
 * Air Force ROTC
@@ -35,7 +37,14 @@ As of 03/06/2015:
 * Documentary Studies
 * Economics
 * English
+* Evolutionary Anthropology
+* Germanic Languages and Literature
+* Health, Wellness and Physical Education
+* History
+* Linguistics
+* Literature
 * Mathematics
+* Music
 * BME
 * ECE
 * MEMS
