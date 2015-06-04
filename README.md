@@ -21,6 +21,8 @@ This format is followed in `master.csv` and all respective department files in `
 
 ###Abbreviation Cheatsheet
 
+Only for the hardish ones...
+
 Abbrev. | Meaning
 --- | ---
 aaas | African & African American Studies
