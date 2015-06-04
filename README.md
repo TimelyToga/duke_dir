@@ -19,6 +19,30 @@ This format is followed in `master.csv` and all respective department files in `
 * `polisci.tsv` "
 * `psych_neur.tsv` "
 
+###Abbreviation Cheatsheet
+
+Abbrev. | Meaning
+--- | ---
+aaas | African & African American Studies
+aahvs | Art, Art History & Visual Studies
+af_rotc | Air Force ROTC
+ames | Asian & Middle Eastern Studies
+bme | Biomedical Engineering
+ca | Cultural Anthropology
+cds | Center for Documentary Studies
+cee | Civil & Environmental Engineering
+ece | Electrical & Computer Engineering
+mems | Mechanical Engineering & Material Sciences
+memp | Master of Engineering Management Program
+evanth |  Evolutionary Anthropology
+pe | Health, Wellness and Physical Education
+polisci | Political Science
+psych_neur | Psychology and Neuroscience
+relig | Religious Studies
+socio | Sociology
+stats | Statistical Science
+ws  | Women's Studies
+
 ###Progress
 
 As of 03/06/2015: 
