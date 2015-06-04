@@ -15,13 +15,15 @@ This format is followed in `master.csv` and all respective department files in `
 * `economics.tsv` "
 * `english.tsv` " 
 * `evanth.tsv` "
-* 'german.tsv' "
+* `german.tsv` "
+* `polisci.tsv` "
+* `psych_neur.tsv` "
 
 ###Progress
 
 As of 03/06/2015: 
 
-######COMPLETE: (27/39)
+######COMPLETE: (39/39)
 
 * African and African American Studies
 * Air Force ROTC
@@ -45,6 +47,18 @@ As of 03/06/2015:
 * Literature
 * Mathematics
 * Music
+* Navy ROTC
+* Philosophy
+* Physics
+* Political Science
+* Psychology and Neuroscience 
+* Religious Studies
+* Romance Studies
+* Slavic and Eurasian Studies
+* Sociology
+* Statistical Science
+* Theater Studies
+* Women´s Studies
 * BME
 * ECE
 * MEMS
