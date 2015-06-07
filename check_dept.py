@@ -6,7 +6,6 @@ incomplete = []
 with open('dept_list.csv', 'rw') as f:
 	reader = csv.reader(f, delimiter='	')
 	for row in reader:
-		print row
 		if(row[1] == '-'):
 			incomplete.append(row[0])
 		else:
@@ -20,3 +19,4 @@ with open('dept_list.csv', 'rw') as f:
 	print "\n\nINCOMPLETE: (%d/%d)\n" % (len(incomplete), tot_len)
 	for a in incomplete:
 		print a
+	print "\n"
