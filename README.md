@@ -4,7 +4,7 @@ Compiling all Duke Faculty into a standardized format.
 [Trinity Department Links](https://trinity.duke.edu/departments)
 [Pratt Department Links](http://www.pratt.duke.edu/directory)
 
-###TSV File Format
+### TSV File Format
 One entry per professor per department. That is, if a professor teaches in more than one department, 
 then there will be an entry for that professor for each department.
 
@@ -12,7 +12,7 @@ then there will be an entry for that professor for each department.
 
 This format is followed in `master.csv` and all respective department files in `/depts/`.
 
-###Special Notes
+### Special Notes
 
 * `biology.tsv` contains professors and graduate students. All are labeled properly. 
 * `economics.tsv` "
@@ -48,11 +48,11 @@ socio | Sociology
 stats | Statistical Science
 ws  | Women's Studies
 
-###Progress
+### Progress
 
 As of 03/06/2015: 
 
-######COMPLETE: (39/39)
+###### COMPLETE: (39/39)
 
 * African and African American Studies
 * Air Force ROTC
